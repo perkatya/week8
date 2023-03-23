@@ -1,0 +1,39 @@
+.page {
+    width: 100vw;
+    .page__header {
+    }
+    .page__description {
+    }
+    .page__image {
+    }
+    .page__link-list {
+    }
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 5px solid red;
+    .header__logo {
+    }
+    .header__button {
+    }
+}
+
+
+.description {
+    .description__title {
+    }
+    .description__text {
+    }
+    .description__button {
+    }
+}
+
+
+.link-list {
+    .link-list__link {
+    }
+}
